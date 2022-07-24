@@ -1,0 +1,297 @@
+@media (max-width:1199px) {
+  .nav-item {
+    padding: 0;
+  }
+
+  .navbar {
+    text-align: center;
+  }
+
+  .social_link ul {
+    width: 75%;
+  }
+
+}
+
+@media (max-width:991px) {
+  .toggler-icon {
+    color: #fff;
+  }
+
+  .banner_image img {
+    width: 45%;
+  }
+
+  .banner_text a {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  header {
+    position: relative;
+  }
+
+  .banner_text a {
+    margin-bottom: 20px;
+    padding: 7px 28px;
+    width: 64%;
+  }
+}
+
+@media (max-width:767px) {
+  .toggler-icon {
+    color: #fff;
+  }
+
+  .nav-item {
+    margin: auto;
+    padding: 5px 0;
+  }
+
+  .navbar-nav {
+    margin-top: 25px;
+  }
+
+  .banner_text {
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 45px;
+  }
+
+  .banner_text h5 {
+    font-size: 12px;
+    margin-top: 15px;
+  }
+
+  .banner_text h1 {
+    font-size: 25px;
+  }
+
+  .banner_text p {
+    font-size: 13px;
+    margin-bottom: 30px;
+  }
+
+  .banner_text a {
+    padding: 5px 10px;
+  }
+
+  .banner_image img {
+    display: none;
+  }
+
+  .banner_image_phone {
+    display: inherit;
+  }
+
+  .banner_image_phone img {
+    width: 50%;
+    margin: auto;
+  }
+
+  .beautiful img {
+    width: 45%;
+    margin: auto;
+  }
+
+  .media_need {
+    text-align: center;
+  }
+
+  .beautiful h5 {
+    margin-top: 20px;
+  }
+
+  .super_easy {
+    padding: 20px 0px;
+  }
+
+  .download_section h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+
+  .download_section .btns {
+    justify-content: center;
+  }
+
+  .download_section .btn-download {
+    padding: 8px 15px;
+  }
+
+  .download_section .btn-features {
+    padding: 8px 15px;
+  }
+
+  .pricing {
+    padding: 30px 0;
+  }
+
+  .contact_form {
+    padding: 20px;
+    width: 90%;
+  }
+
+  .contact_section {
+    padding: 15px 0px;
+    padding-bottom: 265px;
+  }
+
+  .social_link ul {
+    width: 50%;
+    margin-left: 20%;
+  }
+
+  .copyright h3 {
+    text-align: center;
+  }
+
+}
+
+@media (max-width:575px) {
+
+  .navbar-brand img {
+    width: 90px;
+  }
+
+  .toggler-icon {
+    color: #fff;
+  }
+
+  .nav-item {
+    margin: auto;
+    padding: 5px 0;
+  }
+
+  .navbar-nav {
+    margin-top: 25px;
+  }
+
+  .banner_text {
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 45px;
+  }
+
+  .banner_text h5 {
+    font-size: 12px;
+    margin-top: 15px;
+  }
+
+  .banner_text h1 {
+    font-size: 25px;
+  }
+
+  .banner_text p {
+    font-size: 13px;
+    margin-bottom: 30px;
+  }
+
+  .banner_text a {
+    padding: 5px 10px;
+  }
+
+  .banner_image img {
+    display: none;
+  }
+
+  .banner_image_phone {
+    display: inherit;
+  }
+
+  .banner_image_phone img {
+    width: 50%;
+    margin: auto;
+  }
+
+  .feature {
+    padding: 30px 0;
+  }
+
+  .beautiful {
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  .beautiful img {
+    width: 50%;
+    margin: auto;
+  }
+
+  .beautiful h5 {
+    margin-top: 30px;
+  }
+
+  .beautiful p {
+
+    padding-bottom: 10px;
+  }
+
+  .beautiful h1::before {
+    left: 43%;
+  }
+
+  .beautiful h1::after {
+    right: 42%;
+  }
+
+  .super_easy {
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  .super_easy h1::before {
+    left: 42%;
+  }
+
+  .super_easy h1::after {
+    right: 43%;
+  }
+
+  .super_easy h5 {
+    margin-top: 20px;
+  }
+
+  .download_section h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .download_section .btns {
+    justify-content: center;
+  }
+
+  .download_section .btn-download {
+    padding: 5px 10px;
+  }
+
+  .download_section .btn-features {
+    padding: 5px 10px;
+  }
+
+  .pricing {
+    padding: 30px 0;
+  }
+
+  .contact_form {
+    padding: 20px;
+    width: 90%;
+  }
+
+  .contact_section {
+    padding: 15px 0px;
+    padding-bottom: 265px;
+  }
+
+  .social_link ul {
+    width: 50%;
+    margin-left: 20%;
+  }
+
+  .copyright h3 {
+    text-align: center;
+  }
+
+
+}
